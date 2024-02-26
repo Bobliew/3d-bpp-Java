@@ -1,0 +1,39 @@
+{
+  "containerInfo": {
+    "Length": 10,
+    "Width": 10,
+    "Height": 10
+  },
+  "skuInfo": [
+    {
+      "Length": 2,
+      "Width": 4,
+      "Height": 6,
+      "Amount": 8
+    },
+    {
+      "Length": 8,
+      "Width": 2,
+      "Height": 4,
+      "Amount": 4
+    },
+    {
+      "Length": 4,
+      "Width": 4,
+      "Height": 4,
+      "Amount": 4
+    },
+    {
+      "Length": 3,
+      "Width": 3,
+      "Height": 3,
+      "Amount": 8
+    },
+    {
+      "Length": 2,
+      "Width": 2,
+      "Height": 2,
+      "Amount": 10
+    }
+  ]
+}

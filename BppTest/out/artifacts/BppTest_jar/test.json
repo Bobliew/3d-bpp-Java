@@ -1,0 +1,39 @@
+{
+  "containerInfo": {
+    "Length": 10,
+    "Width": 10,
+    "Height": 10
+  },
+  "orderInfo": [
+    {
+      "Length": 1,
+      "Width": 2,
+      "Height": 3,
+      "Amount": 2
+    },
+    {
+      "Length": 4,
+      "Width": 5,
+      "Height": 5,
+      "Amount": 3
+    },
+    {
+      "Length": 1,
+      "Width": 1,
+      "Height": 1,
+      "Amount": 4
+    },
+    {
+      "Length": 2,
+      "Width": 2,
+      "Height": 2,
+      "Amount": 5
+    },
+    {
+      "Length": 2,
+      "Width": 2,
+      "Height": 2,
+      "Amount": 10
+    }
+  ]
+}
